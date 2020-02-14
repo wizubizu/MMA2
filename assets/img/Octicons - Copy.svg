@@ -1,0 +1,5 @@
+<svg id="Octicons" xmlns="http://www.w3.org/2000/svg" width="19.5" height="24" viewBox="0 0 19.5 24">
+  <g id="sign-in">
+    <path id="Shape" d="M10,10.125V18h6V12h1.5v6A1.5,1.5,0,0,1,16,19.5H10V24L1.825,19.92A1.538,1.538,0,0,1,1,18.555V1.5A1.5,1.5,0,0,1,2.5,0H16a1.5,1.5,0,0,1,1.5,1.5V6H16V1.5H4l6,3V7.875L14.5,4.5v3h6v3h-6v3Z" transform="translate(-1)" fill="#165fce" fill-rule="evenodd"/>
+  </g>
+</svg>

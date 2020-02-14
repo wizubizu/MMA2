@@ -1,0 +1,355 @@
+
+/*=================================================================
+  @media screen 1440px
+==================================================================*/
+
+
+@media screen and (min-width: 1440px){
+   
+  
+
+
+}
+
+/*=================================================================
+  @media screen 1199px
+==================================================================*/
+
+
+@media screen and (max-width: 1199px){
+   
+  
+
+}
+
+
+/*=================================================================
+  @media screen 1220px
+==================================================================*/
+
+
+@media screen and (max-width: 1220px){
+  
+  .__main-textt {
+    margin-top: -34%;
+  }
+
+  .__getride {
+    padding: 182px 0;
+  }
+
+
+
+}
+
+
+/*=================================================================
+  @media screen 1024px
+==================================================================*/
+
+
+@media screen and (max-width: 1024px){
+
+  .__carousel-innert>.item> .__img {
+    height: 477px;
+  }
+
+  .__main-textt {
+    margin-top: -40%;
+  }
+
+  .__colat {
+    font-size: 65px;
+  }
+
+  .__nav-pilldown {
+    margin-top: 11%;
+  }
+
+  .__calenbg {
+    padding: 30px 0;
+  }
+
+  .__datext {
+    font-size: 15px;
+  }
+
+  .__latestcard {
+    height: 538px;
+  }
+
+  .__getride {
+    padding: 144px 0;
+  }
+
+  .__flightbg {
+    height: 375px;
+  }
+
+  
+
+}
+
+
+/*=================================================================
+  @media screen 992px
+==================================================================*/
+
+
+@media screen and (max-width: 992px){
+  .__nav-pilldown {
+    margin-top: 11%;
+  }
+
+  .__getride {
+    padding: 136px 0;
+  }
+
+
+}
+
+/*=================================================================
+  @media screen 991px
+==================================================================*/
+
+
+@media screen and (max-width: 991px){
+
+  .__main-textt {
+    margin-top: -45%;
+  }
+
+  .__colat {
+    font-size: 50px;
+  }
+
+  .__nav-pilldown>li a {
+    font-size: 17px;
+  }
+
+  .__nav-pilldown>li.active>a {
+    font-size: 17px;
+  }
+
+  .__datext {
+    font-size: 14px;
+  }
+
+  .__passengercardp {
+    font-size: 18px;
+  }
+
+  .__getride {
+    padding: 94px 0;
+  }
+
+  .__navlink {
+    font-size: 16px;
+  }
+
+  .__navlinka {
+    font-size: 16px;
+  }
+
+  .__latestcard {
+    padding: 20px 15px;
+    height: 586px;
+  }
+
+  .__flightbg {
+    height: 335px;
+  }
+
+  .__viewflight {
+    margin-left: 0%;
+  }
+
+
+}
+
+
+/*=================================================================
+  @media screen 800px
+==================================================================*/
+
+@media screen and (max-width: 800px){
+
+	.__navlink {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+
+  .__navlinka {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+
+  .__carousel-innert>.item> .__img {
+    height: 460px;
+  }
+
+  .__main-textt {
+    margin-top: -48%;
+  }
+
+  .__colat {
+    font-size: 50px;
+  }
+
+  .__nav-pilldown {
+    margin-top: 14%;
+  }
+
+  .__nav-pilldown>li a {
+    font-size: 17px;
+  }
+
+  .__nav-pilldown>li.active>a {
+    font-size: 17px;
+  }
+
+  .__datext {
+    font-size: 13px;
+  }
+
+  .__passengercard .__img {
+    height: 164px;
+  }
+
+  .__passengercardp {
+    font-size: 18px;
+  }
+
+  .__getride {
+    background-size: 50%;
+    padding: 36px 0;
+  }
+
+  .__getridep {
+    font-size: 29px;
+  }
+
+  .__advert {
+    padding: 36px 0;
+  }
+
+  .__latestcard {
+    padding: 20px 11px;
+    height: 512px;
+  }
+
+  .__latestcard .__img {
+    height: 218px;
+  }
+
+  .__flightbg {
+    height: 335px;
+  }
+
+  .__viewflight {
+    margin-left: 2%;
+  }
+  
+
+
+}
+
+/*=================================================================
+  @media screen 767px
+==================================================================*/
+
+@media screen and (max-width: 767px){
+
+
+  
+}
+
+
+/*=================================================================
+  @media screen 560px
+==================================================================*/
+
+
+@media screen and (max-width: 560px){
+
+  .__righttopnav {
+    text-align: left;
+  }
+
+  .__carousel-innert>.item> .__img {
+    height: 400px;
+  }
+
+  .__main-textt {
+    margin-top: -130%;
+  }
+
+  .__colat {
+    font-size: 35px;
+  }
+
+  .__dasminp {
+    padding: 0 40px 0 10px;
+  }
+
+  .__nav-pilldown {
+    margin-top: 5.5%;
+  }
+
+  .__getride{
+    background-size: 100%;
+    padding: 103% 0 10px;
+  }
+
+  .__pilres {
+    font-size: 30px;
+    line-height: 1.0;
+  }
+
+  .__formbtn {
+    margin-top: 25px;
+  }
+
+  .__paserv {
+    font-size: 30px;
+  }
+
+  .__seeall1 {
+    padding: 6px 40px;
+  }
+
+  .__getridep {
+    font-size: 27px;
+  }
+
+  .__advert {
+    padding: 16px 0;
+  }
+
+  .__advertp {
+    font-size: 35px;
+  }
+
+  .__latestcard {
+    padding: 20px 20px;
+    height: 100%;
+  }
+
+  .__latestcard .__img {
+    height: 210px;
+  }
+
+  .nav-tabs.__navplf{
+    display: flex;
+  }
+
+  .__navplf>li a {
+    font-size: 18px;
+  }
+
+  .__tr {
+    height: 0px;
+  }
+
+}
+
