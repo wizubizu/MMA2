@@ -3,15 +3,15 @@
         $('.customer-logos').slick({
             slidesToShow: 4,
             slidesToScroll: 1,
-            autoplay: false,
-            autoplaySpeed: 1200,
+            autoplay: true,
+            autoplaySpeed: 3200,
             arrows: false,
             dots: false,
             pauseOnHover: true,
             responsive: [{
                 breakpoint: 800,
                 settings: {
-                    slidesToShow: 2
+                    slidesToShow: 3
                 }
             }, {
                 breakpoint: 520,

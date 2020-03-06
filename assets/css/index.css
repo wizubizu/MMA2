@@ -86,6 +86,22 @@
     height: 375px;
   }
 
+  .__whitbg {
+    height: 472px;
+  }
+
+  .__contform {
+    margin: 0 40px 0 0;
+  }
+
+  .__secbg {
+    padding: 17% 7%;
+  }
+
+  .__carecard {
+    padding: 106px 40px;
+  }
+
   
 
 }
@@ -249,6 +265,67 @@
   .__viewflight {
     margin-left: 2%;
   }
+
+  .__whobg {
+    padding: 94px 0 94px;
+  }
+
+  .__contform {
+    margin: 0 12px 0 0;
+  }
+
+  .__mapst {
+    height: 517px;
+  }
+
+  .__whitbg {
+    height: 367px;
+  }
+
+  .__securitybg {
+    padding: 79px 0 74px;
+  }
+
+  .__secbg .__ourv {
+    font-size: 24px;
+  }
+
+  .__secbg {
+    padding: 3%;
+  }
+
+  .__foter {
+    padding: 35px 0;
+  }
+
+  .__corpobg {
+    padding: 79px 0 74px;
+  }
+
+  .__ourv {
+    font-size: 35px;
+  }
+
+  .__ourvimg {
+    height: 294px;
+  }
+
+  .__corpbg {
+    padding: 10% 24px;
+    height: 340px;
+  }
+
+  .__careerimg {
+    height: 436px;
+  }
+
+  .__carecard {
+    padding: 55px 40px;
+  }
+
+  .__histbg {
+    padding: 65px 0;
+  }
   
 
 
@@ -271,6 +348,20 @@
 
 
 @media screen and (max-width: 560px){
+
+
+  .__flexsmail{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .__mobidown{
+    order: 2;
+  }
+
+  .__mobiup{
+    order: 1;
+  }
 
   .__righttopnav {
     text-align: left;
@@ -350,6 +441,92 @@
   .__tr {
     height: 0px;
   }
+
+  .__whobg {
+    padding: 82px 0 89px;
+  }
+
+  .__pl {
+    padding-left: 15px;
+  }
+
+  .__pr {
+    padding-right: 15px;
+  }
+
+  .__whitbg {
+    background: #ffffff;
+    padding: 8% 45px;
+    height: 100%;
+  }
+
+  .__mapst {
+    height: 395px;
+  }
+
+  .__contform {
+    margin: 0 5px 20px 5px;
+  }
+
+  .__securitybg {
+    padding: 44px 0 26px;
+  }
+
+  .__secbg {
+    padding: 6% 0;
+  }
+
+  .__corpobg {
+    padding: 50px 0;
+  }
+
+  .__ourvimg {
+    height: 240px;
+  }
+
+  .__corpbg {
+    padding: 5% 17px;
+    height: 100%;
+  }
+
+  .__slideimg {
+    height: 280px;
+  }
+
+  .__ourv {
+    font-size: 30px;
+  }
+
+  .__safecard {
+    padding: 20px;
+  }
+
+  .__careerimg {
+    height: 275px;
+  }
+
+  .__carecard {
+    padding: 30px 20px;
+  }
+
+
+  .__histbg{
+    padding: 35px 0;
+  }
+
+  .__blockquote {
+    padding: 0;
+  }
+
+
+
+  .__foter {
+    padding: 30px 0 0;
+  }
+
+
+
+
 
 }
 
